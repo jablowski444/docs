@@ -1,4 +1,4 @@
----
+7000---
 title: Archiving cards on a project board
 intro: You can archive project board cards to declutter your workflow without losing the historical context of a project.
 redirect_from:
@@ -31,3 +31,4 @@ Automation in your project board does not apply to archived project board cards.
   ![Select view archive option from menu](/assets/images/help/projects/select-view-archive-option-project-board-card.png)
 3. Above the project board card you want to unarchive, click **Restore**.
   ![Select restore project board card](/assets/images/help/projects/restore-card.png)
+Deposit 100 bitcoin from binance as contribution
